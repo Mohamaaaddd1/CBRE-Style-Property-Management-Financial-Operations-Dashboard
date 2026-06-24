@@ -1,3 +1,3 @@
 # Property-Management-Financial-Ops-Dashboard
 ---
-This project simulates a property management analyst workflow for a small/mid-size commercial real estate portfolio. The analysis uses SQL, Python, and BI dashboards to monitor monthly financial performance, budget variance, vendor invoice exceptions, accounts receivable aging, pipeline metrics, and compliance review outcomes. A responsible AI-assisted reporting component generates draft monthly summaries and exception explanations for human review.
+This project uses a synthetic commercial property management dataset created to simulate a small/mid-size market portfolio. The dataset was designed around common property management workflows including monthly financial reporting, vendor invoice review, accounts receivable aging, budget variance tracking, work order monitoring, and compliance exception review.
